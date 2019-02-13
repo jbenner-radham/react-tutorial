@@ -2,6 +2,6 @@
 module.exports = {
     hooks: {
         'pre-commit': 'lint-staged',
-        'pre-push': 'npm run-script test -- --all --no-watch'
+        'pre-push': 'npm test -- --all --no-watch'
     }
 };
