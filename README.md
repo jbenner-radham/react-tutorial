@@ -1,3 +1,10 @@
+React Tutorial
+==============
+> Implementation of the [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+> tutorial from https://reactjs.org/.
+
+--------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
